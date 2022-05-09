@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 🌱 iOS Developer로서 첫 커리어를 시작하고 싶은 한학기를 남겨둔 대학생입니다.
 
+### [개발 블로그](https://eigen.tistory.com/)
+
 <div align="center"> <!-- 가운데 정렬 -->
 
   [![eigen98's GitHub stats](https://github-readme-stats.vercel.app/api?username=eigen98&show_icons=true&theme=radical)](https://github.com/eigen98-readme-stats)
