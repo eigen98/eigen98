@@ -17,7 +17,7 @@ Here are some ideas to get you started:
     
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feigen98&count_bg=%23747BE1&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-🌱 iOS Developer로서 첫 커리어를 시작하고 싶은 한학기를 남겨둔 대학생입니다.
+🌱 iOS Developer
 
 ### [개발일지 정리 블로그](https://eigen.tistory.com/)
 
