@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 ###  🕰️ Experience
 󠁄
     🛸 예비창업팀 블루번 (전) 공동대표      
-    󠁄🎯 DND 6기       
-    🏅 CMC 10기        
+    󠁄🎯 DND 6th       
+    🏅 CMC 10th        
     
     
     
