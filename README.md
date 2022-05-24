@@ -22,6 +22,26 @@ Here are some ideas to get you started:
 ### [개발일지 정리 블로그](https://eigen.tistory.com/)
 
 <div align="center"> <!-- 가운데 정렬 -->
+    
+### 🔥 Tech Stack 🔥
+    
+![Swift](https://img.shields.io/badge/SWIFT-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/KOTLIN-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
+    
+###  🕰️ Experience
+󠁄
+    🛸 예비창업팀 블루번 (전) 공동대표      
+    󠁄🎯 DND 6기       
+    🏅 CMC 10기        
+    
+    
+    
+    
+    
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eigen98&layout=compact&theme=tokyonight)
+
+
 
   [![eigen98's GitHub stats](https://github-readme-stats.vercel.app/api?username=eigen98&show_icons=true&theme=radical)](https://github.com/eigen98-readme-stats)
   
