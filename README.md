@@ -23,6 +23,10 @@ Here are some ideas to get you started:
 
 <div align="center"> <!-- 가운데 정렬 -->
     
+#### 안녕하세요! 사물에 대한 다양한 시각을 제공할 수 있는 IT개발자 에이젠입니다.
+
+### 🍏현재 개발중인 프로젝트 : Bidit (경매방식의 중고거래 플랫폼_iOS ) 5/29 ~ 7/23
+    
 ### 🔥 Tech Stack 🔥
     
 ![Swift](https://img.shields.io/badge/SWIFT-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
