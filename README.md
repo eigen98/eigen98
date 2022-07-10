@@ -2,7 +2,7 @@
 
 <!--
 **eigen98/eigen98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-ㅁ
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ### 🍏현재 개발중인 프로젝트 : Bidit (경매방식의 중고거래 플랫폼_iOS ) 5/29 ~ 7/23
     
-### 🔥 Tech Stack 🔥
+### 🔥 Tech Stack 🔥 g
     
 ![Swift](https://img.shields.io/badge/SWIFT-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
