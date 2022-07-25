@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 ###  🕰️ Experience
 󠁄
     🛸 예비창업팀 블루번 (전) 공동대표      
-    󠁄🎯 DND 6th       
-    🏅 CMC 10th        
+    󠁄🎯 DND 6th 핑퐁 Android 개발       
+    🏅 CMC 10th 비딧 iOS 개발       
     
     
     
