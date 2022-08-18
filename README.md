@@ -35,9 +35,10 @@ Here are some ideas to get you started:
     
 ###  🕰️ Experience
 󠁄
-    🛸 예비창업팀 블루번 (전) 공동대표      
-    󠁄🎯 DND 6th 핑퐁 Android 개발       
-    🏅 CMC 10th 비딧 iOS 개발       
+    🛸 예비창업팀 블루번 (전) 공동대표 & 안드로이드 개발
+        K스타트업 생애최초 청년창업 지원 사업 선정, 경희대 캠퍼스타운 스타트업 지원사업 선정      
+    󠁄🎯 DND 6th 핑퐁 (Android 개발)
+    🏅 CMC 10th 비딧 (iOS 개발)       
     
     
     
