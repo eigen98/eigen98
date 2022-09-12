@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 
 ### 🍏현재 유지보수 및 업데이트 예정 프로젝트 : Bidit (경매방식의 중고거래 플랫폼_iOS)
 ### 🍎현재 개발 중인 외주 프로젝트 : 모두의 펫(반려동물 라이프 스타일_iOS) 9/14~ 11/11
+
 ### 🔥 Tech Stack 🔥 
     
 ![Swift](https://img.shields.io/badge/SWIFT-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
