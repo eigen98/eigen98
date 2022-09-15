@@ -41,7 +41,8 @@ Here are some ideas to get you started:
     경희대 캠퍼스타운 스타트업 지원사업 선정      
     
     󠁄🎯 DND 6th 핑퐁 (Android 개발)      
-    🏅 CMC 10th 비딧 (iOS 개발)       
+    🏅 CMC 10th 비딧 (iOS 개발)   
+    🦁 멋쟁이 사자처럼 iOS 앱스쿨 1기
     
     
     
