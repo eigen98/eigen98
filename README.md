@@ -25,7 +25,8 @@ Here are some ideas to get you started:
     
 #### 안녕하세요! 사물에 대한 다양한 시각을 제공할 수 있는 IT개발자 에이젠/고정민 입니다.
 
-### 🍏현재 유지보수 및 업데이트 예정 프로젝트 : TheVoca (iOS)
+### 🍏출시 예정 프로젝트 : TheVoca (iOS) ~ 2/28
+### 🍏개발 참여중인 프로젝트 : DIDA (iOS) 2/18 ~
 
 ### 🔥 Tech Stack 🔥 
     
