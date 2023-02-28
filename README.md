@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 ### [개발일지 정리 블로그](https://eigen.tistory.com/)
 
+ko_su@naver.com
+
 <div align="center"> <!-- 가운데 정렬 -->
     
 #### 안녕하세요! 사물에 대한 다양한 시각을 제공할 수 있는 IT개발자 에이젠/고정민 입니다.
