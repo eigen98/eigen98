@@ -27,9 +27,6 @@ ko_su@naver.com
     
 #### 안녕하세요! 사물에 대한 다양한 시각을 제공할 수 있는 IT개발자 에이젠 입니다.
 
-### 🍏최근 출시 프로젝트 : TheVoca (iOS)
-### 🍎개발 참여중인 프로젝트 : DIDA (iOS)
-
 ### 🔥 Tech Stack 🔥 
     
 ![Swift](https://img.shields.io/badge/SWIFT-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
@@ -37,6 +34,7 @@ ko_su@naver.com
 <img src="https://img.shields.io/badge/KOTLIN-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
     
 ###  🕰️ Experience
+
 󠁄    🚗 현대자동차 Softeer Boot Camp 2th `2023.07 ~ 2022.08`       
     📚 TheVoca_꼼꼬미 단어장 개발(iOS) `2023.01 ~ 2022.02`       
     🦁 멋쟁이 사자처럼 iOS 앱스쿨 1기         
