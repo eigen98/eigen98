@@ -36,12 +36,12 @@ ko_su@naver.com
     
 ###  🕰️ Experience
 
-🖥️ (주)메**** visionOs iOS 유지보수 및 개발.       
-🖥️ (주)모**** iOS 유지보수 및 개발 (외주).       
-󠁄    🚗 현대자동차 Softeer Boot Camp 2th.      
+🖥️ (주)메**** visionOs, iOS App 유지보수 및 개발.       
+🖥️ (주)모**** iOS App 유지보수 및 개발 (외주).      
+    🖥️ (주)배*** iOS App 유지보수 및 개발 (외주).              
+󠁄    🚗 현대자동차 Softeer Boot Camp 2th 수료.       
     📚 TheVoca_꼼꼬미 단어장 개발(iOS).      
-    🦁 멋쟁이 사자처럼 iOS 앱스쿨 1기.            
-    🐶 (주)배*** iOS 유지보수 및 개발 (외주).      
+    🦁 멋쟁이 사자처럼 iOS 앱스쿨 1기 수료.              
     🚀 CMC 11th 운영진 (iOS파트장).       
     🏅 CMC 10th 비딧 (iOS 개발).       
     🎯 DND 6th 핑퐁 (Android 개발).          
