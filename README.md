@@ -33,23 +33,26 @@ ko_su@naver.com
 ![Swift](https://img.shields.io/badge/SWIFT-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/KOTLIN-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
-    
-###  🕰️ Experience
 
-🖥️ (주)메**** visionOs, iOS App 유지보수 및 개발.       
-🖥️ (주)모**** iOS App 유지보수 및 개발 (외주).      
-    🖥️ (주)배*** iOS App 유지보수 및 개발 (외주).              
-󠁄    🚗 현대자동차 Softeer Boot Camp 2th 수료.       
-    📚 TheVoca_꼼꼬미 단어장 개발(iOS).      
-    🦁 멋쟁이 사자처럼 iOS 앱스쿨 1기 수료.              
-    🚀 CMC 11th 운영진 (iOS파트장).       
-    🏅 CMC 10th 비딧 (iOS 개발).       
-    🎯 DND 6th 핑퐁 (Android 개발).          
-    경희대 캠퍼스타운 스타트업 지원사업 선정(블루번) `캠퍼 2기`.        
-    🛸 K스타트업 생애최초 청년창업 지원 사업 2021 선정(블루번).      
-    🛸 예비창업팀 블루번 (전) 공동대표 & 안드로이드 개발            
-  
-    
+</div>
+
+### 🕰️ Experience
+
+#### 경력
+- 🖥️ **(주)Med******: visionOS, iOS App 유지보수 및 개발
+- 🖥️ **(주)Mos******: iOS App 유지보수 및 개발 (외주)
+- 🖥️ **(주)배***: iOS App 유지보수 및 개발 (외주)
+
+#### 교육
+- 🚗 **현대자동차 Softeer Boot Camp 2th 수료**
+- 🦁 **멋쟁이 사자처럼 iOS 앱스쿨 1기 수료**
+
+#### 활동
+- 🚀 **CMC 11th 운영진 (iOS파트장)**
+- 🏅 **CMC 10th 비딧 (iOS 개발)**
+- 🎯 **DND 6th 핑퐁 (Android 개발)**
+- 🛸 **경희대 캠퍼스타운 스타트업 지원사업 선정(블루번) `캠퍼 2기`**
+- 🛸 **K-StartUp "생애최초 청년창업 지원 사업 2021" 선정(블루번)**
     
     
     
@@ -61,5 +64,5 @@ ko_su@naver.com
   [![eigen98's GitHub stats](https://github-readme-stats.vercel.app/api?username=eigen98&show_icons=true&theme=radical)](https://github.com/eigen98-readme-stats)
   
   
-</div>
+
 
