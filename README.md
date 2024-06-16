@@ -39,9 +39,9 @@ ko_su@naver.com
 ### 🕰️ Experience
 
 #### 경력
-- 🖥️ **(주)Medical IP: visionOS, iOS App 유지보수 및 개발 `2024.01 ~ 현재`
-- 🖥️ **(주)MostX: iOS App 유지보수 및 개발 (외주) `2024.05 ~ 현재`
-- 🖥️ **(주)배터앤컴퍼니: iOS App 유지보수 및 개발 (외주) `2022.09 ~ 2022.11`
+- 🖥️ **(주)Medical IP: visionOS, iOS App 유지보수 및 개발** `2024.01 ~ 현재`
+- 🖥️ **(주)MostX: iOS App 유지보수 및 개발** (외주) `2024.05 ~ 현재`
+- 🖥️ **(주)배터앤컴퍼니: iOS App 유지보수 및 개발** (외주) `2022.09 ~ 2022.11`
 
 #### 교육
 - 🚗 **현대자동차 Softeer Boot Camp 2th 수료**
