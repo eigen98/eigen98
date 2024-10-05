@@ -45,6 +45,8 @@ ko_su@naver.com
     - **SwiftUI**, **Combine**
     - RealityKit, ARKit을 활용하여 AR 관련 기능 구현.
     - Metal, ShaderGraph를 이용하여 그래픽스 기능 개발.
+- 🖥️ **(주)오****: iOS App 신규 앱 개발** (외주) `2024`
+    - **SwiftUI**, **Combine**
 - 🖥️ **(주)Mos***: iOS App 유지보수 및 개발** (외주) `2024`
     - **UIKit**, **RxSwift**
     - WKWebView를 통해 Web을 iOS 앱으로 패키징하는 작업을 수행하여 크로스플랫폼 환경을 조성.
